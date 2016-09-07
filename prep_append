@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin :animal-sniffer-maven-plugin
+python3 /usr/share/java-utils/mvn_file.py  : plexus/io

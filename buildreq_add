@@ -1,0 +1,20 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-enforcer
+jdk-forge-parent
+jdk-hamcrest
+jdk-junit4
+jdk-maven-archiver
+jdk-maven-compiler-plugin
+jdk-maven-filtering
+jdk-maven-jar-plugin
+jdk-maven-javadoc-plugin
+jdk-maven-plugin-tools
+jdk-maven-resources-plugin
+jdk-maven-shared-incremental
+jdk-maven-shared-utils
+jdk-plexus
+jdk-plexus-build-api
+jdk-plexus-compiler
+jdk-surefire
+jdk-xbean
