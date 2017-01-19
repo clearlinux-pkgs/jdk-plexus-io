@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-io
 Version  : 2.7.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/codehaus-plexus/plexus-io/archive/plexus-io-2.7.1.tar.gz
 Source0  : https://github.com/codehaus-plexus/plexus-io/archive/plexus-io-2.7.1.tar.gz
 Summary  : No detailed summary available
